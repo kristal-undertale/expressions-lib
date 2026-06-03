@@ -1,0 +1,15 @@
+{
+    "id": "expressions",
+    
+    "authors": [
+        "DiamondBor"    // Author
+    ],
+    
+    "version": "v1.0.0",
+    "engineVer": "v0.10.0-dev",
+    "default": true,
+
+    "config": {
+        
+    }
+}
