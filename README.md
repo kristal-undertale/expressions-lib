@@ -1,6 +1,6 @@
 # expressions-lib
 Adds a replacement to Kristal's dialogue portraits: `Expression` objects.
 
-Wiki: https://github.com/Magical-Glass-Refurbished/expressions-lib/wiki
+Wiki: https://github.com/kristal-undertale/expressions-lib/wiki
 
 Credits: DiamondBor (me)
