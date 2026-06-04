@@ -30,7 +30,7 @@ function Expression:init(data, x, y, actor)
 
     self.blink_speed = (actor and actor.blink_speed) or (4/30)
     self.blink_delay = (actor and actor.blink_delay) or {1, 3}
-    self.talk_speed  = 4/30
+    self.talk_speed  = (actor and actor.talk_speed) or (4/30)
 
     --// state variables
     -- true when dialogue is playing, false when not

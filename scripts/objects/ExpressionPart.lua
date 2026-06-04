@@ -9,7 +9,7 @@
 ---@field default string?
 ---
 ---@field blink_speed number?
----@field blink_delay number|table?
+---@field blink_delay (number|table)?
 ---@field talk_speed number?
 ---
 ---@field sprite Sprite

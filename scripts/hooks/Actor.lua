@@ -13,6 +13,9 @@ function Actor:init()
     
     -- The speed at which the blinking sprites will play.
     self.blink_speed = 4/30
+    
+    -- The speed at which the talksprites will play.
+    self.talk_speed = 4/30
 
     -- How long until the blink sprites play
     -- Can either be a fixed number or a number range. If its a range, a random number between the two will be picked after each blink.
